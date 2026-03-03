@@ -2,6 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF4C4C,50:4C84FF,100:4CFF4C&height=200&section=header&text=Motorsport%20Event%20Tracker&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
 # 🏁 Motorsport Event Tracker
+
 ![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
 ![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey.svg)
