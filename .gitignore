@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+motorsport_tracker.log
+*.ico
+*.log

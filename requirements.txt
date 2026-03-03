@@ -1,0 +1,6 @@
+pytz
+schedule
+icalendar
+tkcalendar
+win10toast
+
